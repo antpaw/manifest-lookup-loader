@@ -1,0 +1,25 @@
+{
+  "name": "manifest-lookup-loader",
+  "version": "1.0.0",
+  "description": "manifest lookup loader for replacing rev'd sources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antpaw/manifest-lookup-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "revision",
+    "loader",
+    "assets"
+  ],
+  "author": "Anton Pawlik <anton.pawlik@gmail.com> (http://antpaw.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antpaw/manifest-lookup-loader/issues"
+  },
+  "homepage": "https://github.com/antpaw/manifest-lookup-loader#readme"
+}
